@@ -1,1 +1,0 @@
-https://github.com/mrepol742/Server/update_url.txt;https://github.com/mrepol742/Server/update_version.txt;https://github.com/mrepol742/Server/notification_state.txt;https://github.com/mrepol742/Server/notification_data.txt;https://github.com/mrepol742/Server/b.txt
